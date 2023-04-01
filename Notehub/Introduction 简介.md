@@ -1,8 +1,6 @@
 ## History of C++ Standard library
 
-  ![](image_1.3bec2e5d.png)
-
-
+![image](https://user-images.githubusercontent.com/98553439/229307155-b18fe20a-3911-4c21-9311-81faea47f06c.png)
 
 
 ## Some important C++ concepts
