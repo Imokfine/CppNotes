@@ -1,7 +1,9 @@
 # CppNotes
-笔记参考来源：  
-课堂笔记
-
+### 笔记参考来源：  
+课堂PPT  
+CPP Reference https://en.cppreference.com/w/  
+菜鸟教程 https://www.runoob.com/cplusplus/cpp-tutorial.html  
+C语言中文网 http://c.biancheng.net/cplus/
 
 ## C++基础
 * Introduction 简介  
