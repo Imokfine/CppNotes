@@ -1,12 +1,5 @@
 ## Memory layout of Program
-
-
-
-![](image_1.f7021e24.png)
-
-
-
-
+![1680372003248](https://user-images.githubusercontent.com/98553439/229306954-b283211d-431f-4547-b789-ed3258fde98f.png)
 
 ## Allocating memory 内存分配
 
@@ -23,46 +16,3 @@
 - new，new\[\]，delete，delete\[\] （Use these instead of malloc and free in C）
 - new (and malloc) allocate memory on the Heap (or Free-store).
 - In C++ we can use STL containers such as std::vector when we cannot know the size at compile time.
-
-
-
-
-
-
------
-**Unmapped** area contains cmd line args and env vars.
-
-
-
-**Stack** contains automatic variables
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Heap** contains dynamically allocated memory.
-
-
-
-
-
-
-
-**Data** segments contain global and static variables.
-
-
-
-
-
-
-
-**Text** segment is read only and contains the executable code.
-
