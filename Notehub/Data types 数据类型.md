@@ -1,7 +1,6 @@
 ## 数据类型
 
-![](image_1.38132399.png)
-
+![image](https://user-images.githubusercontent.com/98553439/229307119-2aa0f3d0-025e-42d1-9279-284ba6779c4b.png)
 
 
 ## auto关键字
