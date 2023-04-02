@@ -21,9 +21,12 @@ C语言中文网 http://c.biancheng.net/cplus/
 * [Overloading 重载]
 
 ## C++进阶
-* [Rules 法则]
+* [Rules 法则](./Notehub/Rules%20法则.md)  
 
 ## Code example
-[Calculate CDF (Cumulative Distribution Function) and PDF (Probability Density Function)] (Practice Inline function, Member functions, Non-member functions and Special member functions)  
-[Calculate Forward Contract, Call Option, Put Option, Portfolio payoff and Portfolio profit] (Practice Inheritance, Polymorphism, Rules of 0,3,5)
-[Matrix operations] (Practice overloading)
+* [Calculate CDF (Cumulative Distribution Function) and PDF (Probability Density Function)](./Code%20example/Example1/README.md)  
+(Practice Inline function, Member functions, Non-member functions and Special member functions)  
+* [Calculate Forward Contract, Call Option, Put Option, Portfolio payoff and Portfolio profit](./Code%20example/Example2/README.md)  
+(Practice Inheritance, Polymorphism, Rules of 0,3,5)  
+* [Matrix operations](./Code%20example/Example3/README.md)  
+(Practice overloading)
