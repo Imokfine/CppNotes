@@ -16,4 +16,14 @@ C语言中文网 http://c.biancheng.net/cplus/
 * [Control flow 控制流](./Notehub/Control%20flow%20控制流.md)  
 
 ## C++面向对象
+* [Class & Object 类和对象]
+* [Special member functions 特殊成员函数]
+* [Overloading 重载]
+
 ## C++进阶
+* [Rules 法则]
+
+## Code example
+[Calculate CDF (Cumulative Distribution Function) and PDF (Probability Density Function)] (Practice Inline function, Member functions, Non-member functions and Special member functions)  
+[Calculate Forward Contract, Call Option, Put Option, Portfolio payoff and Portfolio profit] (Practice Inheritance, Polymorphism, Rules of 0,3,5)
+[Matrix operations] (Practice overloading)
