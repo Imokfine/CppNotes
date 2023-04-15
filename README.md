@@ -25,8 +25,10 @@ C语言中文网 http://c.biancheng.net/cplus/
 
 ## C++ Tasks
 * [Calculate CDF (Cumulative Distribution Function) and PDF (Probability Density Function)](./Code%20example/Example1/README.md)  
-(Practice Inline function, Member functions, Non-member functions and Special member functions)  
+(Inline function, Member functions, Non-member functions and Special member functions)  
 * [Calculate Forward Contract, Call Option, Put Option, Portfolio payoff and Portfolio profit](./Code%20example/Example2/README.md)  
-(Practice Inheritance, Polymorphism, Rules of 0,3,5)  
+(Inheritance, Polymorphism, Rules of 0,3,5)  
 * [Matrix operations](./Code%20example/Example3/README.md)  
-(Practice overloading)
+(Overloading)
+* [Monte Carlo Simulation for Social distancing](https://github.com/Imokfine/CppNotes/tree/main/Code%20example/Example4)  
+(Vector and Grid, Smart pointor, Gnuplot)
