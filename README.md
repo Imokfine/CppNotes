@@ -1,6 +1,6 @@
 # CppNotes
 ### 笔记参考来源：  
-课堂PPT  
+Slides from course  
 CPP Reference https://en.cppreference.com/w/  
 菜鸟教程 https://www.runoob.com/cplusplus/cpp-tutorial.html  
 C语言中文网 http://c.biancheng.net/cplus/
@@ -23,7 +23,7 @@ C语言中文网 http://c.biancheng.net/cplus/
 ## C++进阶
 * [Rules 法则](./Notehub/Rules%20法则.md)  
 
-## Code example
+## C++ Tasks
 * [Calculate CDF (Cumulative Distribution Function) and PDF (Probability Density Function)](./Code%20example/Example1/README.md)  
 (Practice Inline function, Member functions, Non-member functions and Special member functions)  
 * [Calculate Forward Contract, Call Option, Put Option, Portfolio payoff and Portfolio profit](./Code%20example/Example2/README.md)  
