@@ -24,7 +24,7 @@ For Q2, run
 ./assignment5b
 ```
 
-For Q1, run
+For Q3, run
 
 ```bash
 mpirun -n 3 ./assignment5a
