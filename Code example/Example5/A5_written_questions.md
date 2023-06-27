@@ -39,11 +39,13 @@ mpirun -n 3 ./assignment5a
 
 * **async policy**
 
-![image-20230520221314806](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230520221314806.png)
+![image](https://github.com/Imokfine/CppNotes/assets/98553439/565d9aee-a837-4412-a22c-5cc6a2da71da)
+
 
 * **deferred policy**
 
-![image-20230520221456449](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230520221456449.png)
+![image](https://github.com/Imokfine/CppNotes/assets/98553439/51908651-4b06-4ea2-a088-85aa94d9e4ef)
+
 
 I use 3 threads in the code. 
 
@@ -59,21 +61,25 @@ When we use the async policy, the task or parallel execution structure will be l
 
   * **asnyc policy**
 
-    ![image-20230517162159849](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517162159849.png)
+    ![image](https://github.com/Imokfine/CppNotes/assets/98553439/b060e82a-b255-4436-a633-12ba290fe505)
+
 
   * **deferred policy**
 
-    ![image-20230517161951755](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517161951755.png)
+    ![image](https://github.com/Imokfine/CppNotes/assets/98553439/f5aa2764-758f-4cdb-935a-6f334d54b3ce)
+
 
 * **-O3 level**
 
   * **async policy**
 
-    ![image-20230517161637595](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517161637595.png)
+    ![image](https://github.com/Imokfine/CppNotes/assets/98553439/01fab40f-2409-4e29-b358-650692f8f238)
+
 
   * **deferred policy**
 
-    ![image-20230517161720810](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517161720810.png)
+    ![image](https://github.com/Imokfine/CppNotes/assets/98553439/4084f6ad-2d79-4272-9112-d2dc260b5dd2)
+
 
 Using deferred policy tend to be faster. For async policy, -O3 level has better performance.
 
@@ -83,19 +89,23 @@ Using deferred policy tend to be faster. For async policy, -O3 level has better 
 
 The file points.txt is too large, so I display the plot of these points alone
 
-<img src="C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517165405524.png" alt="image-20230517165405524" style="zoom: 80%;" />
+![image](https://github.com/Imokfine/CppNotes/assets/98553439/8a1e9b0b-c01b-4a77-8632-303eea3a8205)
+
 
 
 
 * **Not merged**
 
-  ![image-20230517170923021](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517170923021.png)
+  ![image](https://github.com/Imokfine/CppNotes/assets/98553439/45d0a867-264c-44fe-b03b-14a6601b9f75)
+
 
 * **After first merge**
 
-  ![image-20230517171107300](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517171107300.png)
+  ![image](https://github.com/Imokfine/CppNotes/assets/98553439/61af2b1d-a8c2-46f4-b767-dcea81ed216b)
+
 
 * **After second merge**
 
-  ![image-20230517170714147](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20230517170714147.png)
+ ![image](https://github.com/Imokfine/CppNotes/assets/98553439/bed74e37-270b-48ae-9f4a-5bfa515acb45)
+
 
